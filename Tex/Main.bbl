@@ -1,0 +1,2486 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Argence2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f16fa23d1d1424f8f536366da837e02}{%
+           family={Argence},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1ce92c531e31942dc8ca3f6881dfca87}{%
+           family={Daussy},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c4dfdcafd4858704e34653a11dac672}{%
+           family={Coq},
+           familyi={C\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{645f552abde72a4fae9504c8e2483244}
+      \strng{fullhash}{645f552abde72a4fae9504c8e2483244}
+      \strng{bibnamehash}{645f552abde72a4fae9504c8e2483244}
+      \strng{authorbibnamehash}{645f552abde72a4fae9504c8e2483244}
+      \strng{authornamehash}{645f552abde72a4fae9504c8e2483244}
+      \strng{authorfullhash}{645f552abde72a4fae9504c8e2483244}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Photonics}
+      \field{title}{Quantum cascade laser frequency stabilization at the sub-Hz level}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1038/nphoton201593
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\Frequenzstabilisierung\Quantum cascade laser frequency stabilization at the sub-Hz level.pdf
+      \endverb
+    \endentry
+    \entry{Axner-2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8cecf300ddb34a97472e2ee0b5ba472e}{%
+           family={Axner},
+           familyi={A\bibinitperiod},
+           given={Ove},
+           giveni={O\bibinitperiod}}}%
+        {{hash=aa295058109ce9d4effe7a1dd26fd3db}{%
+           family={Forssén},
+           familyi={F\bibinitperiod},
+           given={Clayton},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ce0b92eee140bc96c252719a8ca978ed}{%
+           family={Silander},
+           familyi={S\bibinitperiod},
+           given={Isak},
+           giveni={I\bibinitperiod}}}%
+        {{hash=843bd168b37ee908ebb813725a3db008}{%
+           family={Zakrisson},
+           familyi={Z\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=91589ad65a08e605823b5fa2393d28f1}{%
+           family={Zelan},
+           familyi={Z\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5935903426a218d5fccbbdf8bc324f5c}
+      \strng{fullhash}{94decc5a6a79fa3de14a08f4c4017bc6}
+      \strng{bibnamehash}{5935903426a218d5fccbbdf8bc324f5c}
+      \strng{authorbibnamehash}{5935903426a218d5fccbbdf8bc324f5c}
+      \strng{authornamehash}{5935903426a218d5fccbbdf8bc324f5c}
+      \strng{authorfullhash}{94decc5a6a79fa3de14a08f4c4017bc6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Optical Society of America B}
+      \field{title}{Ability of gas modulation to reduce the pickup of drifts in refractometry}
+      \field{volume}{Vol. 38, Issue 8,}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/JOSAB.420982
+      \endverb
+    \endentry
+    \entry{Bartalini2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8d858fb2c46b027c30cfa13a6e121a68}{%
+           family={Bartalini},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=da652e220dd283c64dd0ca14d2be6d94}{%
+           family={Cancio},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=16f0157a290cdf18e749d955fc1be85d}{%
+           family={Giusfredi},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b8aab6fb5691147353cb8c0ce46a4859}{%
+           family={Mazotti},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{fullhash}{5abe0e4484eae2e5bb1b5608e6f3fdcf}
+      \strng{bibnamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authorbibnamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authornamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authorfullhash}{5abe0e4484eae2e5bb1b5608e6f3fdcf}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Frequency-comb-referenced quantum-cascade laser at 4.4 $\mu$m}
+      \field{volume}{32, No. 8}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1364/OL.32.000988
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Frequency-comb-referenced quantum-cascade laser at 4.4m.pdf
+      \endverb
+    \endentry
+    \entry{Bartalini2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8d858fb2c46b027c30cfa13a6e121a68}{%
+           family={Bartalini},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b691afd60ad80210a23a3e48b3e9378a}{%
+           family={Borri},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=710b44c219b9859c82517e446ee8d9a4}{%
+           family={Galli},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=4fedcaa2b96796eb15433656a8748c9c}{%
+           family={Giusfredi},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{fullhash}{ef512de3cab93aa54f5a688e317ec48a}
+      \strng{bibnamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authorbibnamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authornamehash}{ea744a2cd0d0a1a7d8bc52a719d5c303}
+      \strng{authorfullhash}{ef512de3cab93aa54f5a688e317ec48a}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optical Society of America, Optics Express}
+      \field{title}{Measuring frequency noise and intrinsic linewidth of a room-temperature DFB quantum cascade laser}
+      \field{volume}{Vol. 19, Nr. 19}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OE.19.017996
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Measuring frequency noise and intrinsic linewidth of a room-temperature DFB quantum cascade laser
+      \endverb
+    \endentry
+    \entry{Black2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66a756773c329f5407a83444217b1b5b}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{66a756773c329f5407a83444217b1b5b}
+      \strng{fullhash}{66a756773c329f5407a83444217b1b5b}
+      \strng{bibnamehash}{66a756773c329f5407a83444217b1b5b}
+      \strng{authorbibnamehash}{66a756773c329f5407a83444217b1b5b}
+      \strng{authornamehash}{66a756773c329f5407a83444217b1b5b}
+      \strng{authorfullhash}{66a756773c329f5407a83444217b1b5b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{79}
+      \field{journaltitle}{American Journal of Physics}
+      \field{title}{An introduction to Pound–Drever–Hall laser frequency stabilization}
+      \field{volume}{69}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1119/1.1286663
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\Frequenzstabilisierung\An introduction to Pound–Drever–Hall laser frequency stabilization.pdf
+      \endverb
+    \endentry
+    \entry{Born-1980}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f3c12b2ab192a232977c790c202ae18a}{%
+           family={Born},
+           familyi={B\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f3da79454ab0edb86f37a6038d1998f}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b14dea9f75ec6824071689113c5b3d02}
+      \strng{fullhash}{b14dea9f75ec6824071689113c5b3d02}
+      \strng{bibnamehash}{b14dea9f75ec6824071689113c5b3d02}
+      \strng{authorbibnamehash}{b14dea9f75ec6824071689113c5b3d02}
+      \strng{authornamehash}{b14dea9f75ec6824071689113c5b3d02}
+      \strng{authorfullhash}{b14dea9f75ec6824071689113c5b3d02}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{ISBN0-08-026481-6.}
+      \field{title}{Principles of Optics}
+      \field{year}{1980}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Borri2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b691afd60ad80210a23a3e48b3e9378a}{%
+           family={Borri},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=51902d2da62da89a6e1a08a3e99da89b}{%
+           family={Cumis},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi Siciliani},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=b6ce2d283abc5ad3646e5db4cd6e78a1}{%
+           family={Insero},
+           familyi={I\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8d858fb2c46b027c30cfa13a6e121a68}{%
+           family={Bartalini},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb5b6a9da99cb1fe30745fa2aad2308b}
+      \strng{fullhash}{b05e6a5791f8dd15cb51f8329b2e75ff}
+      \strng{bibnamehash}{eb5b6a9da99cb1fe30745fa2aad2308b}
+      \strng{authorbibnamehash}{eb5b6a9da99cb1fe30745fa2aad2308b}
+      \strng{authornamehash}{eb5b6a9da99cb1fe30745fa2aad2308b}
+      \strng{authorfullhash}{b05e6a5791f8dd15cb51f8329b2e75ff}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{title}{Tunable Microcavity-Stabilized Quantum Cascade Laser for Mid-IR High-Resolution Spectroscopy and Sensing}
+      \field{volume}{16(2)}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.3390/s16020238
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Tunable Microcavity-Stabilized Quantum Cascade Laser for Mid-IR High-Resolution Spectroscopy and Sensing.pdf
+      \endverb
+    \endentry
+    \entry{Bucalovic2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dfb46725c6eca9f374e1012ed7327222}{%
+           family={Bucalovic},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=83a1173488967dd8a2ed2d27be5c2f08}{%
+           family={Dolgovskiy},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f5873d3304dfbe7215e9ee06d0fccb90}{%
+           family={Schori},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ca3f6760c260e6671cc440d63771fb2}
+      \strng{fullhash}{4ca3f6760c260e6671cc440d63771fb2}
+      \strng{bibnamehash}{4ca3f6760c260e6671cc440d63771fb2}
+      \strng{authorbibnamehash}{4ca3f6760c260e6671cc440d63771fb2}
+      \strng{authornamehash}{4ca3f6760c260e6671cc440d63771fb2}
+      \strng{authorfullhash}{4ca3f6760c260e6671cc440d63771fb2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Experimental validation of a simple approximation to determine the linewidth of a laser from its frequency noise spectrum}
+      \field{volume}{Vol.51, issue 20}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/AO.51.004582
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Experimental validation of a simple approximation to determine the linewidth of a laser from its frequency noise spectrum narrowing in quantum cascade lasers
+      \endverb
+    \endentry
+    \entry{Cappelli-2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=729348cdf4546d4fdc4c3706509e434c}{%
+           family={Cappelli},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=710b44c219b9859c82517e446ee8d9a4}{%
+           family={Galli},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b691afd60ad80210a23a3e48b3e9378a}{%
+           family={Borri},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ceba416b0c02a8d4081393444a6160df}
+      \strng{fullhash}{ceba416b0c02a8d4081393444a6160df}
+      \strng{bibnamehash}{ceba416b0c02a8d4081393444a6160df}
+      \strng{authorbibnamehash}{ceba416b0c02a8d4081393444a6160df}
+      \strng{authornamehash}{ceba416b0c02a8d4081393444a6160df}
+      \strng{authorfullhash}{ceba416b0c02a8d4081393444a6160df}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Subkilohertz linewidth room-temperature mid-infrared quantum cascade laser using a molecular sub-Doppler reference}
+      \field{volume}{Vol.37 No. 23}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.37.004811
+      \endverb
+    \endentry
+    \entry{Cappelli2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=729348cdf4546d4fdc4c3706509e434c}{%
+           family={Cappelli},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=48ea4055f16c6f0d9a16a7ce82a7ce7d}{%
+           family={I.Galli},
+           familyi={I\bibinitperiod}}}%
+        {{hash=f4eb773909fabff74dcdf366aa076ae9}{%
+           family={S.Borri},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \strng{fullhash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \strng{bibnamehash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \strng{authorbibnamehash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \strng{authornamehash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \strng{authorfullhash}{1d87ecbf2eca46ac3af9fe1543c49ec9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Subkilohertz linewidth room-temperaturemid-infrared quantum cascade laserusing a molecular sub-Doppler reference}
+      \field{volume}{Vol. 37, Nr. 23}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.37.004811
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Subkilohertz linewidth room-temperaturemid-infrared quantum cascade laserusing a molecular sub-Doppler reference
+      \endverb
+    \endentry
+    \entry{Cardilli2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b8c8e76683eef1614fd8c147f9b5fee6}{%
+           family={Cardilli},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=46eaf456ffb3da7c345802c63856f247}{%
+           family={M.Dabicco},
+           familyi={M\bibinitperiod}}}%
+        {{hash=882ac809097515650773a1ba2b2b66da}{%
+           family={F.Mezzapesa},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \strng{fullhash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \strng{bibnamehash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \strng{authorbibnamehash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \strng{authornamehash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \strng{authorfullhash}{46dda1c4d47e3f8a98d2a0b004f837e4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Appl. Phys. Lett.}
+      \field{title}{Linewidth measurement of mid infrared quantum cascade laser by optical feedback interferometry}
+      \field{volume}{Vol. 108}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1063/1.4940116
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Linewidth measurement of mid infrared quantum cascade laser by opticalfeedback interferometry
+      \endverb
+    \endentry
+    \entry{chen1957}{article}{}
+      \name{author}{2}{}{%
+        {{hash=18b531085c0814ee23f56fc21ab0bbb3}{%
+           family={Ch’en},
+           familyi={C\bibinitperiod},
+           given={Shang-Yi},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=007a35eacf986537ad3ad6af6964555d}{%
+           family={Takeo},
+           familyi={T\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b75d781f089c22f9d713d2c639405500}
+      \strng{fullhash}{b75d781f089c22f9d713d2c639405500}
+      \strng{bibnamehash}{b75d781f089c22f9d713d2c639405500}
+      \strng{authorbibnamehash}{b75d781f089c22f9d713d2c639405500}
+      \strng{authornamehash}{b75d781f089c22f9d713d2c639405500}
+      \strng{authorfullhash}{b75d781f089c22f9d713d2c639405500}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{number}{1}
+      \field{title}{Broadening and Shift of Spectral Lines due to the Pressence of Foreign Gases}
+      \field{volume}{29}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1103/RevModPhys.29.20
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Theoretische Spektren\Broadening and shift of soectral lines due to foreign atoms.pdf
+      \endverb
+    \endentry
+    \entry{Chiarugi2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8cffeceb4fbbecf075b84e0406cbb63f}{%
+           family={Chiarugi},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1596cdc81189ccd6b4bdabbb8fad6dfa}{%
+           family={Viciani},
+           familyi={V\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cec53c8905d7f20fe0bf5f1ed44ecc5b}{%
+           family={D’Amatoand},
+           familyi={D\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b22e027f47906b231194bd1d2e3a5508}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{442d032f65e87a36bcfeeb9fe53ae546}
+      \strng{fullhash}{0567478f8b878073af777b698b3bfae4}
+      \strng{bibnamehash}{442d032f65e87a36bcfeeb9fe53ae546}
+      \strng{authorbibnamehash}{442d032f65e87a36bcfeeb9fe53ae546}
+      \strng{authornamehash}{442d032f65e87a36bcfeeb9fe53ae546}
+      \strng{authorfullhash}{0567478f8b878073af777b698b3bfae4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{329–339}
+      \field{journaltitle}{Athmospheric Measurement Techniques}
+      \field{title}{Diode laser-based gas analyser for the simultaneous measurement of CO2 and HF in volcanic plumes}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.5194/amt-11-329-2018
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie an Co2\Diode laser-based gas analyser for the simultaneous measurementof CO2and HF in volcanic plumes.pdf
+      \endverb
+    \endentry
+    \entry{DeCumis2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=51902d2da62da89a6e1a08a3e99da89b}{%
+           family={Cumis},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi Siciliani},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=b691afd60ad80210a23a3e48b3e9378a}{%
+           family={Borri},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b6ce2d283abc5ad3646e5db4cd6e78a1}{%
+           family={Insero},
+           familyi={I\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=710b44c219b9859c82517e446ee8d9a4}{%
+           family={Galli},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f9c6bdff13e9fd0d8763926b750d069}
+      \strng{fullhash}{f5cda7bda2ef4f5862e0d5ffcbba9706}
+      \strng{bibnamehash}{3f9c6bdff13e9fd0d8763926b750d069}
+      \strng{authorbibnamehash}{3f9c6bdff13e9fd0d8763926b750d069}
+      \strng{authornamehash}{3f9c6bdff13e9fd0d8763926b750d069}
+      \strng{authorfullhash}{f5cda7bda2ef4f5862e0d5ffcbba9706}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laser and Photonics Reviews}
+      \field{title}{Microcavity-Stabilized Quantum Cascade Laser}
+      \field{volume}{10, No. 1, 153-157}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 0.1002/lpor.201500214
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Microcavity-Stabilized Quantum Cascade Laser.pdf
+      \endverb
+    \endentry
+    \entry{deCumis-2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5a7ae9f6d1a8867bf1fd76bf39a0f4d4}{%
+           family={Cumis},
+           familyi={C\bibinitperiod},
+           given={Mario\bibnamedelima Siciliani},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=647179649aceb761b3ae43a688ff1ec7}{%
+           family={Borri},
+           familyi={B\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c5818f0438c7b29324bb481e62de571}{%
+           family={Insero},
+           familyi={I\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{126396f39cdb2c7aa22faed5de6cf442}
+      \strng{fullhash}{126396f39cdb2c7aa22faed5de6cf442}
+      \strng{bibnamehash}{126396f39cdb2c7aa22faed5de6cf442}
+      \strng{authorbibnamehash}{126396f39cdb2c7aa22faed5de6cf442}
+      \strng{authornamehash}{126396f39cdb2c7aa22faed5de6cf442}
+      \strng{authorfullhash}{126396f39cdb2c7aa22faed5de6cf442}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laser Photonics Rev.}
+      \field{title}{Microcavity-Stabilized Quantum Cascade Laser}
+      \field{volume}{Vol.10 No. 1}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb DOI 10.1002/lpor.201500214
+      \endverb
+    \endentry
+    \entry{DemtroederLaser2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6f90b4471a2206bb62a8576e485a0006}{%
+           family={Demtröder},
+           familyi={D\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f90b4471a2206bb62a8576e485a0006}
+      \strng{fullhash}{6f90b4471a2206bb62a8576e485a0006}
+      \strng{bibnamehash}{6f90b4471a2206bb62a8576e485a0006}
+      \strng{authorbibnamehash}{6f90b4471a2206bb62a8576e485a0006}
+      \strng{authornamehash}{6f90b4471a2206bb62a8576e485a0006}
+      \strng{authorfullhash}{6f90b4471a2206bb62a8576e485a0006}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laserspektroskopie 1}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-642-21306-9
+      \endverb
+      \verb{file}
+      \verb C:\Users\kussic01\Desktop\Andre\Arbeit\Paper\Bücher\Demtröder\Laserspectroskopie1
+      \endverb
+    \endentry
+    \entry{Demtroeder2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1b437aa22ec3ae1671f7b67493d1fdd6}{%
+           family={Demtroeder},
+           familyi={D\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \strng{fullhash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \strng{bibnamehash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \strng{authorbibnamehash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \strng{authornamehash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \strng{authorfullhash}{1b437aa22ec3ae1671f7b67493d1fdd6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experimentalphysik 3 Atome, Moleküle und Festkörper (5.Auflage)}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-662-49094-5
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\Bücher\demtroeder3
+      \endverb
+    \endentry
+    \entry{Deng2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=81632e508226c691684605abf5de1ba8}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b79936295c8c242b778091b6c73c89fc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bbe869383a7d3458b82c516a21e4482c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=466ce84bc5093e2ec73b823c573ad026}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f73041f03513df72a3c89d1935078886}
+      \strng{fullhash}{d65958246c502dd8db3410a75f7d57fe}
+      \strng{bibnamehash}{f73041f03513df72a3c89d1935078886}
+      \strng{authorbibnamehash}{f73041f03513df72a3c89d1935078886}
+      \strng{authornamehash}{f73041f03513df72a3c89d1935078886}
+      \strng{authorfullhash}{d65958246c502dd8db3410a75f7d57fe}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{title}{Narrow linewidth characteristics of interband cascade lasers}
+      \field{volume}{Vol.116}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1063/5.0006823
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Narrow linewidth characteristics of interband cascade lasers
+      \endverb
+    \endentry
+    \entry{DiDomenico2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e37979d7d656d8aec4cc476fc5a96e82}{%
+           family={Domenico},
+           familyi={D\bibinitperiod},
+           given={G.\bibnamedelimi Di},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=18b650fca8f19308a3f9e30f00379a4b}{%
+           family={Schilt},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c05bda7a9877758c298b26b5ef08d36}{%
+           family={Thomann},
+           familyi={T\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec56055bdf6a90da27f3269b15f7c755}
+      \strng{fullhash}{ec56055bdf6a90da27f3269b15f7c755}
+      \strng{bibnamehash}{ec56055bdf6a90da27f3269b15f7c755}
+      \strng{authorbibnamehash}{ec56055bdf6a90da27f3269b15f7c755}
+      \strng{authornamehash}{ec56055bdf6a90da27f3269b15f7c755}
+      \strng{authorfullhash}{ec56055bdf6a90da27f3269b15f7c755}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Simple approach to the relation between laser frequency noise and laser line shape}
+      \field{volume}{Vol. 49, issue 25}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/AO.49.004801
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\LSimple approach to the relation between laser frequency noiose and laser lineshape
+      \endverb
+    \endentry
+    \entry{DiDomenico-2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a732ccbf23c0b0525a06086766b8e14d}{%
+           family={Domenico},
+           familyi={D\bibinitperiod},
+           given={Gianni\bibnamedelima Di},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b0a76d9d577d9d2e7d38bc987151b182}{%
+           family={Schilt},
+           familyi={S\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=efc479fdf513d180acb9695f4d93ec3a}{%
+           family={Thomann},
+           familyi={T\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4248ec3faadd30558d1c569525a115f9}
+      \strng{fullhash}{4248ec3faadd30558d1c569525a115f9}
+      \strng{bibnamehash}{4248ec3faadd30558d1c569525a115f9}
+      \strng{authorbibnamehash}{4248ec3faadd30558d1c569525a115f9}
+      \strng{authornamehash}{4248ec3faadd30558d1c569525a115f9}
+      \strng{authorfullhash}{4248ec3faadd30558d1c569525a115f9}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Simple approach to the relation between laser frequency noise and laser line shape}
+      \field{volume}{Vol.49 issue 25}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/AO.49.004801
+      \endverb
+    \endentry
+    \entry{PoundDrever1983}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ba63990f784171d4248bd5f470d49c50}{%
+           family={Drever},
+           familyi={D\bibinitperiod},
+           given={R.W.P.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b9622e145377f2875796fef643c9a0ae}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={J.L},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d7e9caff9f3b9232beaeb0da24d81f97}{%
+           family={Kowalski},
+           familyi={K\bibinitperiod},
+           given={F.V},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cacc79a877a2bddf2e99c6b4f84ba397}{%
+           family={Hough},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a0a56b7fc8c3b8ecafb744e0055c561}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={G.M.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{37bba41abb064462170a8cc100a820fb}
+      \strng{fullhash}{f6b515d8d713b2a23bd620c3f0536703}
+      \strng{bibnamehash}{37bba41abb064462170a8cc100a820fb}
+      \strng{authorbibnamehash}{37bba41abb064462170a8cc100a820fb}
+      \strng{authornamehash}{37bba41abb064462170a8cc100a820fb}
+      \strng{authorfullhash}{f6b515d8d713b2a23bd620c3f0536703}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{97-105}
+      \field{journaltitle}{Applied Physics B Photophysics and Laser Chemistry}
+      \field{title}{Laser Phase and Frequency Stabilization Using an Optical Resonator}
+      \field{volume}{31}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/BF00702605
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\Frequenzstabilisierung\Laser Phase and Frequency Stabilization Using an Optical Resonator.pdf
+      \endverb
+    \endentry
+    \entry{Engeln1998}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2ce92d41e02c83fb0d6003f797da83c2}{%
+           family={Engeln},
+           familyi={E\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8d91f2c1e135686b9f84c65de5104c18}{%
+           family={Berden},
+           familyi={B\bibinitperiod},
+           given={Giel},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d9a5b264232429129ccb35588000be9d}{%
+           family={Peeters},
+           familyi={P\bibinitperiod},
+           given={Rudy},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d4e9cf29f38f5ba44aaf9246b8866976}{%
+           family={Meijer},
+           familyi={M\bibinitperiod},
+           given={Gerard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e01daee1ee4754977ffbe6d8c2bc1bb0}
+      \strng{fullhash}{ee885400727476713aca86bb4531928d}
+      \strng{bibnamehash}{e01daee1ee4754977ffbe6d8c2bc1bb0}
+      \strng{authorbibnamehash}{e01daee1ee4754977ffbe6d8c2bc1bb0}
+      \strng{authornamehash}{e01daee1ee4754977ffbe6d8c2bc1bb0}
+      \strng{authorfullhash}{ee885400727476713aca86bb4531928d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Scientific Instruments}
+      \field{title}{Cavity enhanced absorption and cavity enhanced magnetic rotation spectroscopy}
+      \field{volume}{69}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1063/1.1149176
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Methoden\Cavity enhanced absorption and cavity enhanced magnetic rotationspectroscopy.pdf
+      \endverb
+    \endentry
+    \entry{Faist2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0f2c1123e514f18c0ad346e88ffe08c4}{%
+           family={Faist},
+           familyi={F\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \strng{fullhash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \strng{bibnamehash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \strng{authorbibnamehash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \strng{authornamehash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \strng{authorfullhash}{0f2c1123e514f18c0ad346e88ffe08c4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum Cascade Lasers}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780198528241.001.0001
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\
+      \endverb
+    \endentry
+    \entry{Faist1994}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0f2c1123e514f18c0ad346e88ffe08c4}{%
+           family={Faist},
+           familyi={F\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6b66572e37e511110e7b7eb4083786a9}{%
+           family={Capasso},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b896217d8cca263f97f040dd01383a77}{%
+           family={Sivco},
+           familyi={S\bibinitperiod},
+           given={Deborah\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6452ed08843a0a9871af02e2c9121813}{%
+           family={Sirtori},
+           familyi={S\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fb7935101d8fc0555f408ae65e977dd0}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={Albert\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8bd8e1f7adb54da455736f38dacefc64}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Alfred\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5a1659419a72a0a433612cb40f0fbf8}
+      \strng{fullhash}{078a8fcd847833a892444e1ebaf70939}
+      \strng{bibnamehash}{f5a1659419a72a0a433612cb40f0fbf8}
+      \strng{authorbibnamehash}{f5a1659419a72a0a433612cb40f0fbf8}
+      \strng{authornamehash}{f5a1659419a72a0a433612cb40f0fbf8}
+      \strng{authorfullhash}{078a8fcd847833a892444e1ebaf70939}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{553-556}
+      \field{journaltitle}{Science}
+      \field{number}{5158}
+      \field{title}{Quantum Cascade Laser}
+      \field{volume}{264}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1126/science.264.5158.553
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\QCL\Quantum_Cascade_Laser_Jerome-Faist.pdf
+      \endverb
+    \endentry
+    \entry{Fasci2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4c57561eb3380a670ed1bb91dc056c8b}{%
+           family={Fasci},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=dcbcbccfe06d30e592ee0974faaa0515}{%
+           family={Coluccelli},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=654a71f911ae574810c1e4142c06bc04}{%
+           family={Casserino},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2f38e7fe99880dca813f146a9070acee}{%
+           family={A.Gambetta},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb6188f6c62110259fc94a930827d912}
+      \strng{fullhash}{bebc0e51a122c5ff90c1d3037840a910}
+      \strng{bibnamehash}{eb6188f6c62110259fc94a930827d912}
+      \strng{authorbibnamehash}{eb6188f6c62110259fc94a930827d912}
+      \strng{authornamehash}{eb6188f6c62110259fc94a930827d912}
+      \strng{authorfullhash}{bebc0e51a122c5ff90c1d3037840a910}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Narrow-linewidth quantum cascade laser at 8.6 $\mu$m}
+      \field{volume}{39, No. 16}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1364/OL.39.004946
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Narrow-linewidth quantum cascade laser at 8.6 mum.pdf
+      \endverb
+    \endentry
+    \entry{Fasci-2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f88d1fc5dc73a8305c5ba320ff00664a}{%
+           family={Fasci},
+           familyi={F\bibinitperiod},
+           given={Eugenio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3869e11216456c4fd466572762552cc6}{%
+           family={Coluccelli},
+           familyi={C\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=443c70108be775dc162e844ebdfcec2e}{%
+           family={Cassinerio},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{62f7579a891cd500bf00d6cb34ee31de}
+      \strng{fullhash}{62f7579a891cd500bf00d6cb34ee31de}
+      \strng{bibnamehash}{62f7579a891cd500bf00d6cb34ee31de}
+      \strng{authorbibnamehash}{62f7579a891cd500bf00d6cb34ee31de}
+      \strng{authornamehash}{62f7579a891cd500bf00d6cb34ee31de}
+      \strng{authorfullhash}{62f7579a891cd500bf00d6cb34ee31de}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Narrow-linewidth quantum cascade laser at 8.6 $\mu$m}
+      \field{volume}{Vol.39 No. 16}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.39.004946
+      \endverb
+    \endentry
+    \entry{Fleisher2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9b08258adc340c1425b37e7c3cac5296}{%
+           family={Fleisher},
+           familyi={F\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b64787fdfd475bf7e4dda5bac3d1c331}{%
+           family={Adkins},
+           familyi={A\bibinitperiod},
+           given={Erin\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c6479c0724d9bb89162727d560bbc974}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={Zachary\bibnamedelima D.},
+           giveni={Z\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5b026d83b3a54e51a514bfe1101c246e}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Hongming},
+           giveni={H\bibinitperiod}}}%
+        {{hash=62cee77ca220e2aeb88a92d7993207d2}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e25f09b01d603a1c19f52dcf43e8363e}{%
+           family={Fleurbaey},
+           familyi={F\bibinitperiod},
+           given={Hélène\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d052f7cdd94620759b28a408ce633d0}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={Joseph\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd071d76d50b675b3a7b1a3b8015dbbc}
+      \strng{fullhash}{8e45f0969dadff9edb84f62f5544cf1f}
+      \strng{bibnamehash}{bd071d76d50b675b3a7b1a3b8015dbbc}
+      \strng{authorbibnamehash}{bd071d76d50b675b3a7b1a3b8015dbbc}
+      \strng{authornamehash}{bd071d76d50b675b3a7b1a3b8015dbbc}
+      \strng{authorfullhash}{8e45f0969dadff9edb84f62f5544cf1f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{number}{4}
+      \field{title}{Twenty-five-fold reduction in measurement uncertainty for a molecular line intensity}
+      \field{volume}{123}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.123.043001
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie an Co2 - Linienstärken\Twenty-five-fold reduction in measurement uncertainty for a molecular line intensity.pdf
+      \endverb
+    \endentry
+    \entry{Haefner2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f848de7b1a25ea9160a02f5724150326}{%
+           family={Haefner},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f18becd29035229a40b4b2d672ae956f}{%
+           family={S.Falke},
+           familyi={S\bibinitperiod}}}%
+        {{hash=23ff6b36e7bec3daf04af8422956a00b}{%
+           family={Grebing},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=02a350fe478c323896527bf0bbc6dc53}{%
+           family={Vogt},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7f5fc8d20d8d413c64143a959cf09c7}
+      \strng{fullhash}{39ae7130d550e063956e00d2a40b1f02}
+      \strng{bibnamehash}{b7f5fc8d20d8d413c64143a959cf09c7}
+      \strng{authorbibnamehash}{b7f5fc8d20d8d413c64143a959cf09c7}
+      \strng{authornamehash}{b7f5fc8d20d8d413c64143a959cf09c7}
+      \strng{authorfullhash}{39ae7130d550e063956e00d2a40b1f02}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{8 * 10e−17 fractional laser frequency instability with a long room-temperature cavity}
+      \field{volume}{Vol. 40, No. 9}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.40.002112
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\Frequenzstabilisierung\8 × 10^${−17}$ fractional laser frequency instability with a long room-temperature cavity
+      \endverb
+    \endentry
+    \entry{Hartmann2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d7b11ede72ce26594884d8a1157bd455}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=f39d882719c7ab56521f24bfe1eb8d9c}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Ha},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3b80d1900ec971ada8711dae5850d7ef}{%
+           family={Armante},
+           familyi={A\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae04d7e811265417a77d41170cde66d6}
+      \strng{fullhash}{ae04d7e811265417a77d41170cde66d6}
+      \strng{bibnamehash}{ae04d7e811265417a77d41170cde66d6}
+      \strng{authorbibnamehash}{ae04d7e811265417a77d41170cde66d6}
+      \strng{authornamehash}{ae04d7e811265417a77d41170cde66d6}
+      \strng{authorfullhash}{ae04d7e811265417a77d41170cde66d6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{Recent advances in collisional effects on spectra of molecular gases and their practical consequences}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2018.03.016
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Theoretische Spektren\Recent advances in collisional effects on spectra of molecular gases and their practical consequences.pdf
+      \endverb
+    \endentry
+    \entry{Haug2009}{book}{}
+      \name{author}{2}{}{%
+        {{hash=cbaba8b0afacad7e6b92c41d2753b3f5}{%
+           family={Haug},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d51023a5716c52b81da9d7e08d425147}{%
+           family={S.W.Koch},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fc0cdd952aff3857771c0c86edc931d}
+      \strng{fullhash}{9fc0cdd952aff3857771c0c86edc931d}
+      \strng{bibnamehash}{9fc0cdd952aff3857771c0c86edc931d}
+      \strng{authorbibnamehash}{9fc0cdd952aff3857771c0c86edc931d}
+      \strng{authornamehash}{9fc0cdd952aff3857771c0c86edc931d}
+      \strng{authorfullhash}{9fc0cdd952aff3857771c0c86edc931d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum theory of the optical and electronical properties of semiconductors.}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1142/7184
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\Halbleitereigenschaften\Quantum Theory of the Optical and Electronic Properties of Semiconductors
+      \endverb
+    \endentry
+    \entry{Hugi2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f7cb1732c87224d0928848ad3b380163}{%
+           family={Hugi},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=389990a10bc340b2f260bfcb61cb2fc6}{%
+           family={Villare},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=62e0aedd2a5bdb78acc3ccdd51286a84}{%
+           family={H.C.\bibnamedelimi Liu},
+           familyi={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={S.\bibnamedelimi Blaser},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={annd},
+           prefixi={a\bibinitperiod}}}%
+        {{hash=f1936a9c70dca3603744190ef4d74fe1}{%
+           family={Faist},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{457c3c1581e8382ada29266b852109ea}
+      \strng{fullhash}{9008f2e27eabc6d68bcd592c0052e740}
+      \strng{bibnamehash}{457c3c1581e8382ada29266b852109ea}
+      \strng{authorbibnamehash}{457c3c1581e8382ada29266b852109ea}
+      \strng{authornamehash}{457c3c1581e8382ada29266b852109ea}
+      \strng{authorfullhash}{9008f2e27eabc6d68bcd592c0052e740}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Mid-infrared frequency comb based on a quantum cascade laser}
+      \field{volume}{492, pages 229–233}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb doi:10.1038/nature11620
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Mid-infrared frequency comb based on a quantum cascade laser.pdf
+      \endverb
+    \endentry
+    \entry{Setina-1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=775cf99d8c649203e21e66aab1b31c28}{%
+           family={J.Setina},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{775cf99d8c649203e21e66aab1b31c28}
+      \strng{fullhash}{775cf99d8c649203e21e66aab1b31c28}
+      \strng{bibnamehash}{775cf99d8c649203e21e66aab1b31c28}
+      \strng{authorbibnamehash}{775cf99d8c649203e21e66aab1b31c28}
+      \strng{authornamehash}{775cf99d8c649203e21e66aab1b31c28}
+      \strng{authorfullhash}{775cf99d8c649203e21e66aab1b31c28}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metrologia}
+      \field{title}{New approach to corrections for thermal transpiration effects in capacitance diaphragm gauges}
+      \field{volume}{Volume 36, No.6}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb DOI 10.1088/0026-1394/36/6/27
+      \endverb
+    \endentry
+    \entry{Jousten2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d2094d981406f3dd341b6ddf7abbfc5}{%
+           family={Jousten},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \strng{fullhash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \strng{bibnamehash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \strng{authorbibnamehash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \strng{authornamehash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \strng{authorfullhash}{5d2094d981406f3dd341b6ddf7abbfc5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of Vacuum Technology}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1002/9783527688265.ch11
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\
+      \endverb
+    \endentry
+    \entry{Jousten-2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5d2094d981406f3dd341b6ddf7abbfc5}{%
+           family={Jousten},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3d46c29da5cf3623b5b0db3d1fbfeb8b}{%
+           family={Hendricks},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=577a2fe299837b411cbaacb7c49193ac}{%
+           family={Barker},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \strng{fullhash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \strng{bibnamehash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \strng{authorbibnamehash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \strng{authornamehash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \strng{authorfullhash}{e5bebb7facc905777ffdb1f8cca9ce65}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metrologia}
+      \field{title}{Perspective for a new realization of the Pascal by optical methods}
+      \field{volume}{Volume 54, No.6}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb doi: 10.1088/1681-7575/aa8a4d
+      \endverb
+    \endentry
+    \entry{Kischkat2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=97c50bd9c575711055ead589ca4151c5}{%
+           family={Kischkat},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=125a8969223189971b7c1dec7afa243c}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e096768d1c4d629efa8f415827773a1f}{%
+           family={Gruska},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=86695c71364391b71fb242936da0cebf}{%
+           family={Semtsiv},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e48d94afbb6285e5bdc6b02dd07a7812}{%
+           family={Chaashnikova},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9a87d26d0f1dfb3b155c2e22ace826e}
+      \strng{fullhash}{3d4d276f2ec9f3e6e394d8331e828e8a}
+      \strng{bibnamehash}{b9a87d26d0f1dfb3b155c2e22ace826e}
+      \strng{authorbibnamehash}{b9a87d26d0f1dfb3b155c2e22ace826e}
+      \strng{authornamehash}{b9a87d26d0f1dfb3b155c2e22ace826e}
+      \strng{authorfullhash}{3d4d276f2ec9f3e6e394d8331e828e8a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{6789-6798}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Mid-infrared optical properties of thin films of aluminum oxide, titanium dioxide, silicon dioxide, aluminum nitride, and silicon nitride}
+      \field{volume}{51,28}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1364/AO.51.006789
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\Frequenzstabilisierung\Mid-infrared optical properties of thin films of aluminum oxide, titanium dioxide, silicon dioxide, aluminum nitride, and silicon nitride.pdf
+      \endverb
+    \endentry
+    \entry{Lauterborn2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2bcff9c76afda6f0cde55391e2f25b18}{%
+           family={Lauterborn},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \strng{fullhash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \strng{bibnamehash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \strng{authorbibnamehash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \strng{authornamehash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \strng{authorfullhash}{2bcff9c76afda6f0cde55391e2f25b18}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-540-43933-1}
+      \field{title}{Coherent Optics - Fundamentals and Applications}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C:\Users\kussic01\Desktop\Andre\Arbeit\Paper\Bücher\Coherent-Optics-Werner-Lauterborn
+      \endverb
+    \endentry
+    \entry{Margenau1936}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1f99ffb9a835a71de2bfbe1ce29d68cb}{%
+           family={Margenau},
+           familyi={M\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a2b8fa5ee9ebf72c6b1a0814acef7458}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca70d149755385fe1382b84d453269d6}
+      \strng{fullhash}{ca70d149755385fe1382b84d453269d6}
+      \strng{bibnamehash}{ca70d149755385fe1382b84d453269d6}
+      \strng{authorbibnamehash}{ca70d149755385fe1382b84d453269d6}
+      \strng{authornamehash}{ca70d149755385fe1382b84d453269d6}
+      \strng{authorfullhash}{ca70d149755385fe1382b84d453269d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{title}{Pressure Effects on Spectral Lines}
+      \field{volume}{8}
+      \field{year}{1936}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1103/RevModPhys.8.22
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Theoretische Spektren\Pressure_effects_on_spectral_lines.pdf
+      \endverb
+    \endentry
+    \entry{Mathonniere2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b992be60e03eb4f23be13ce63a3bd95b}{%
+           family={Mathonniere},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=eeac8cd4d656565334ac27af615236b2}{%
+           family={Tomko},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4a94c35dca2749edc8c389e855368371}{%
+           family={Matsuoka},
+           familyi={M\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=125a8969223189971b7c1dec7afa243c}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=97c50bd9c575711055ead589ca4151c5}{%
+           family={Kischkat},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3364f32521f6a5cc2f1025931695d40}
+      \strng{fullhash}{661e74b803e354051a5caf81e257ea2e}
+      \strng{bibnamehash}{a3364f32521f6a5cc2f1025931695d40}
+      \strng{authorbibnamehash}{a3364f32521f6a5cc2f1025931695d40}
+      \strng{authornamehash}{a3364f32521f6a5cc2f1025931695d40}
+      \strng{authorfullhash}{661e74b803e354051a5caf81e257ea2e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics B Lasers and Optics}
+      \field{title}{External cavity quantum cascade laser emitting from 12.3 to 13.2 $\mu$m}
+      \field{volume}{124:149}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s00340-018-7017-7
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\External cavity quantum cascade laser emitting from 12.3 to 13.2.pdf
+      \endverb
+    \endentry
+    \entry{Mukherjee2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bce2b9cf5f4b6b318a91bbf260290e94}{%
+           family={N.Mukherjee},
+           familyi={N\bibinitperiod}}}%
+        {{hash=8e74a2211260184d8175ec6283745818}{%
+           family={R.Go},
+           familyi={R\bibinitperiod}}}%
+        {{hash=db20be866b28336e2f93bd31de9eaa3d}{%
+           family={C.Patel},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \strng{fullhash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \strng{bibnamehash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \strng{authorbibnamehash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \strng{authornamehash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \strng{authorfullhash}{b74c4d4eda86d74a58ff1c30d65b7c25}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{title}{Linewidth measurement of externalgrating cavity quantum cascade laser usingsaturation spectroscopy}
+      \field{volume}{Vol. 92}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1063/1.2901038
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\Linewidth measurement of externalgrating cavity quantum cascade laser usingsaturation spectroscopy
+      \endverb
+    \endentry
+    \entry{Ngo2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=21853c07a816c9327053dd2dae349d66}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=006d527428ae3b86c2093d6d28e16072}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eacab4c60295d7ee7b03fac393989ac5}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={J.T.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfdba62f6937f78a261bc531b851b8d3}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c30ec79e882dc9b0b6a4156a253f203}
+      \strng{fullhash}{8360f8c8456f3379a31296da6d25aa5c}
+      \strng{bibnamehash}{6c30ec79e882dc9b0b6a4156a253f203}
+      \strng{authorbibnamehash}{6c30ec79e882dc9b0b6a4156a253f203}
+      \strng{authornamehash}{6c30ec79e882dc9b0b6a4156a253f203}
+      \strng{authorfullhash}{8360f8c8456f3379a31296da6d25aa5c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{Spectral shapes of rovibrational lines of CO broadened by He, Ar, Kr and SF6: A test case of the Hartmann-Tran profile}
+      \field{volume}{203}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2017.03.001
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Theoretische Spektren\Spectral shapes of rovibrational lines of CO broadened by He, Ar, Kr and SF 6 : A test case of the Hartmann-Tran profile.pdf
+      \endverb
+    \endentry
+    \entry{Hartmann-Tran}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d919dcae29eb2aea7f1980e1cf4237f0}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={N.H.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=69265c7e0eb151a6d34bb2ba97af455e}{%
+           family={Lisak},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cfdba62f6937f78a261bc531b851b8d3}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e9c84446264e52528844faca18937e}
+      \strng{fullhash}{31e9c84446264e52528844faca18937e}
+      \strng{bibnamehash}{31e9c84446264e52528844faca18937e}
+      \strng{authorbibnamehash}{31e9c84446264e52528844faca18937e}
+      \strng{authornamehash}{31e9c84446264e52528844faca18937e}
+      \strng{authorfullhash}{31e9c84446264e52528844faca18937e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{An isolated line-shape model to go beyond the Voigt profile in spectroscopic databases and radiative transfer codes}
+      \field{volume}{Vol.129}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2013.05.034
+      \endverb
+    \endentry
+    \entry{Padilla2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=833f83b16480f963568f58cc99666179}{%
+           family={Padilla-Víquez},
+           familyi={P\bibinithyphendelim V\bibinitperiod},
+           given={Gerardo\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5a04b48aeaff4e3896f7a511d6d053e7}{%
+           family={Koelliker-Delgado},
+           familyi={K\bibinithyphendelim D\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c21e0a589ebe7d1f105c87424098216e}{%
+           family={Werhahn},
+           familyi={W\bibinitperiod},
+           given={Olav},
+           giveni={O\bibinitperiod}}}%
+        {{hash=2681b09959852cfa852c9adfcc505c0b}{%
+           family={Jousten},
+           familyi={J\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5855a66f3e3c9449292b22ca63eef8b3}{%
+           family={Schiel},
+           familyi={S\bibinitperiod},
+           given={Detlef},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1bb7a0776d11a072f3b619b182bc294}
+      \strng{fullhash}{cd237a8627b49162c0102d345431b0ff}
+      \strng{bibnamehash}{e1bb7a0776d11a072f3b619b182bc294}
+      \strng{authorbibnamehash}{e1bb7a0776d11a072f3b619b182bc294}
+      \strng{authornamehash}{e1bb7a0776d11a072f3b619b182bc294}
+      \strng{authorfullhash}{cd237a8627b49162c0102d345431b0ff}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{number}{2}
+      \field{title}{Traceable CO2-R(12) Line Intensity for Laser-Spectroscopy-Based Gas Analysis Near 2 $\mu$m}
+      \field{volume}{56}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/TIM.2007.891160
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie an Co2\Traceable CO2-R(12)Line Intensity forLaser-Spectroscopy-Based GasAnalysis Near 2mum.pdf
+      \endverb
+    \endentry
+    \entry{Peck-1966}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8229c99b66db7668805b742810e06142}{%
+           family={Peck},
+           familyi={P\bibinitperiod},
+           given={Edson\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=dda93ed3bdbc358fcb690ddf00f70ffc}{%
+           family={Khanna},
+           familyi={K\bibinitperiod},
+           given={Baij\bibnamedelima Nath},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \strng{fullhash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \strng{bibnamehash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \strng{authorbibnamehash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \strng{authornamehash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \strng{authorfullhash}{5c24bd1cf33e4e501b5c1e4b60dbe086}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Optical Society of America}
+      \field{title}{Dispersion of Nitrogen}
+      \field{volume}{Volume 56, Issue 8}
+      \field{year}{1966}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/JOSA.56.001059
+      \endverb
+    \endentry
+    \entry{HitranAPI}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4ce8e0d111e1a9b2fdf88c67334cc714}{%
+           family={R.V.\bibnamedelimi Kochanov},
+           familyi={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={L.S.\bibnamedelimi Rothman},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           suffix={I.E.\bibnamedelimi Gordon},
+           suffixi={I\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \strng{fullhash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \strng{bibnamehash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \strng{authorbibnamehash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \strng{authornamehash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \strng{authorfullhash}{4ce8e0d111e1a9b2fdf88c67334cc714}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Quant. Spectrosc. Radiat. Transfer}
+      \field{title}{HITRAN Application Programming Interface (HAPI): A comprehensive approach to working with spectroscopic data}
+      \field{volume}{Vol.177}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2016.03.005
+      \endverb
+    \endentry
+    \entry{Romanini1993}{article}{}
+      \name{author}{2}{}{%
+        {{hash=06d4c221d71c7203a2470c454e7dbb40}{%
+           family={Romanini},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d42337d9a662ff8326a8b3923655edb1}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{022d02948717f60458e8c4556239cf67}
+      \strng{fullhash}{022d02948717f60458e8c4556239cf67}
+      \strng{bibnamehash}{022d02948717f60458e8c4556239cf67}
+      \strng{authorbibnamehash}{022d02948717f60458e8c4556239cf67}
+      \strng{authornamehash}{022d02948717f60458e8c4556239cf67}
+      \strng{authorfullhash}{022d02948717f60458e8c4556239cf67}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{316-322}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{Ring-down cavity absorption spectroscopy of the very weak HeN overtone bands with six, seven, and eight stretching quanta}
+      \field{volume}{264}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1063/1.465866
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Methoden\Ring-down cavity absorption spectroscopy of the very weak HeN overtone bands with six, seven, and eight stretching quanta.pdf
+      \endverb
+    \endentry
+    \entry{Romanini1997}{article}{}
+      \name{author}{4}{}{%
+        {{hash=06d4c221d71c7203a2470c454e7dbb40}{%
+           family={Romanini},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=acf6927f0412881cee89c6e7047607ca}{%
+           family={Kachanov},
+           familyi={K\bibinitperiod},
+           given={A.A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20c627b70b179f1f94a919d4afcc63dd}{%
+           family={Sadeghi},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1ad2fb892b9a0800c0e06e2a3450ceae}{%
+           family={Stoeckel},
+           familyi={S\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{28f4710445a3905700a37a0ed2e50c52}
+      \strng{fullhash}{3d7df6a7e1accdfe2209c306413c509d}
+      \strng{bibnamehash}{28f4710445a3905700a37a0ed2e50c52}
+      \strng{authorbibnamehash}{28f4710445a3905700a37a0ed2e50c52}
+      \strng{authornamehash}{28f4710445a3905700a37a0ed2e50c52}
+      \strng{authorfullhash}{3d7df6a7e1accdfe2209c306413c509d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{316-322}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{title}{CW cavity ring down spectroscopy}
+      \field{volume}{264}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/S0009-2614(96)01351-6
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Methoden\CW cavity ring down spectroscopy.pdf
+      \endverb
+    \endentry
+    \entry{Hitran2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c9830c48ceaf338e5706b0cc706854e9}{%
+           family={Rothmana},
+           familyi={R\bibinitperiod},
+           given={L.S.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a30831342f7006ea06f8468269354331}{%
+           family={I.E.Gordon},
+           familyi={I\bibinitperiod}}}%
+        {{hash=d90eea00ed94bc09db7a10c6d91c7e41}{%
+           family={Y.Babikov},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=cfdab476269ecb78bb76fef0e43e446b}{%
+           family={A.Barbe},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{fullhash}{067c45990ef556184a4f7e2022507265}
+      \strng{bibnamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authorbibnamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authornamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authorfullhash}{067c45990ef556184a4f7e2022507265}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{4-50}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{The HITRAN2012 molecular spectroscopic database}
+      \field{volume}{130}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2013.07.002
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie an Co2\The HITRAN2012molecularspectroscopicdatabase.pdf
+      \endverb
+    \endentry
+    \entry{Hitran2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c9830c48ceaf338e5706b0cc706854e9}{%
+           family={Rothmana},
+           familyi={R\bibinitperiod},
+           given={L.S.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a30831342f7006ea06f8468269354331}{%
+           family={I.E.Gordon},
+           familyi={I\bibinitperiod}}}%
+        {{hash=b916ff5dd9a6ed04a11196ab9d2cee27}{%
+           family={C.Hill},
+           familyi={C\bibinitperiod}}}%
+        {{hash=46f02bab52ecb3a1f02a13f3a30b8ea3}{%
+           family={Y.Tan},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{fullhash}{1465e3b990d40d5d9abd6d0ad252a97f}
+      \strng{bibnamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authorbibnamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authornamehash}{25c3ce48b46013d1f7002b4b7ccbb347}
+      \strng{authorfullhash}{1465e3b990d40d5d9abd6d0ad252a97f}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{3-69}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{The HITRAN2016 molecular spectroscopic database}
+      \field{volume}{203}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2017.06.038
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie an Co2\The HITRAN2016molecularspectroscopicdatabase.pdf
+      \endverb
+    \endentry
+    \entry{Sergachev2017}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6924d9d801cdfa9a1475f19d5446c00c}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={I.\bibnamedelimi Sergachev.},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \strng{fullhash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \strng{bibnamehash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \strng{authorbibnamehash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \strng{authornamehash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \strng{authorfullhash}{6924d9d801cdfa9a1475f19d5446c00c}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PHD-thesis}
+      \field{title}{High-Power and Narrow-Linewidth Optimizations of Mid-Infrared Quantu Cascade Lasers}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb doi: 10.5451/unibas-006771214
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\Dissertationen\High-Power and Narrow-Linewidth-Ilia-Sergachev
+      \endverb
+    \endentry
+    \entry{Rubin2016}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=18d1091f1618283e5fd31d2b8f7b1268}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \strng{fullhash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \strng{bibnamehash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \strng{authorbibnamehash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \strng{authornamehash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \strng{authorfullhash}{18d1091f1618283e5fd31d2b8f7b1268}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PHD-thesis}
+      \field{title}{Praezise Partialdruckbestimmung bei der Atemgasanalyse und in der Metrologie}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb http://dx.doi.org/10.17169/refubium-6520
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\Desktop\Promotion\Arbeit\Paper\Dissertationen\Tom_Rubin
+      \endverb
+    \endentry
+    \entry{Shawlow-Twones}{article}{}
+      \name{author}{2}{}{%
+        {{hash=83f7f27a515f40d2f8b73936be7a3f5a}{%
+           family={Schawlow},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c0546eab0d2ea7ce1427d2f4c01e3eed}{%
+           family={Townes},
+           familyi={T\bibinitperiod},
+           given={C.\bibnamedelimi H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{828a9d44950b8935257cbeeddbbe37bb}
+      \strng{fullhash}{828a9d44950b8935257cbeeddbbe37bb}
+      \strng{bibnamehash}{828a9d44950b8935257cbeeddbbe37bb}
+      \strng{authorbibnamehash}{828a9d44950b8935257cbeeddbbe37bb}
+      \strng{authornamehash}{828a9d44950b8935257cbeeddbbe37bb}
+      \strng{authorfullhash}{828a9d44950b8935257cbeeddbbe37bb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{title}{Infrared and Optical Masers}
+      \field{volume}{Vol.112}
+      \field{year}{1940}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1103/PhysRev.112.1940
+      \endverb
+    \endentry
+    \entry{Sergachev2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f650553f5c48409a575a132294030069}{%
+           family={Sergachev},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b658009dbd14adaec7c375fad5e52390}{%
+           family={Maulini},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=993fdb337a6019b78c971391a873e569}{%
+           family={Bismuto},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6416d62f2db9ab3d2a9350193b10ce81}{%
+           family={Blaser},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=eb11a47573cb0c55f3a52c02b0e29891}{%
+           family={Gresch},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{23046e2a53605f55be0a90dd7a988ec5}
+      \strng{fullhash}{3414baea082b6b75973b28dd7a6928b2}
+      \strng{bibnamehash}{23046e2a53605f55be0a90dd7a988ec5}
+      \strng{authorbibnamehash}{23046e2a53605f55be0a90dd7a988ec5}
+      \strng{authornamehash}{23046e2a53605f55be0a90dd7a988ec5}
+      \strng{authorfullhash}{3414baea082b6b75973b28dd7a6928b2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{All-electrical frequency noise reduction and linewidth narrowing in quantum cascade lasers}
+      \field{volume}{Vol. 39, issue 23}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb DOI: 10.1364/OL.39.006411
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Linienbreite-Optimierung-und-Messung\All-electrical frequency noise reduction and linewidth narrowing in quantum cascade lasers
+      \endverb
+    \endentry
+    \entry{Sevast-1986}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c21c447632419b4c20002833062e0161}{%
+           family={Sevast'yanov},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f6aeba8acccdf5164cdf19776c88431b}{%
+           family={Chernyavskaya},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \strng{fullhash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \strng{bibnamehash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \strng{authorbibnamehash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \strng{authornamehash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \strng{authorfullhash}{550df9ce2055fe7b7b6f7cfc7d2240e2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of engineering physics}
+      \field{title}{Virial coefficients of nitrogen, oxygen, and air at temperatures from 75 to 2500 K}
+      \field{volume}{Volume 51}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1007/BF00871372
+      \endverb
+    \endentry
+    \entry{Shehzad2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=68000a9a80db5b9bc23035f81fd5f2ad}{%
+           family={Shehzad},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4a37f71e8ae994ca00205801e01382e5}{%
+           family={Brochard},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=866d3ca760d15282359b8e4c9d415cc4}{%
+           family={Matthey},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \strng{fullhash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \strng{bibnamehash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \strng{authorbibnamehash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \strng{authornamehash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \strng{authorfullhash}{93b6bcfd56991cc767e1e90d7b82934a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{10 kHz linewidth mid-infrared quantum cascade laser by stabilization to an optical delay line}
+      \field{volume}{44,14/15}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.44.003470
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\10kHz_linewidth_mid_infrared_laser_delay_line.pdf
+      \endverb
+    \endentry
+    \entry{Shezad-2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=76037414a8bfcbd8b5d1ff265558da09}{%
+           family={Shezad},
+           familyi={S\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7c2a1a5118d4013d1ddbef174820ab65}{%
+           family={Brochard},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b3a2344484bf66c9afbab799c6c9d425}{%
+           family={Matthey},
+           familyi={M\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \strng{fullhash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \strng{bibnamehash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \strng{authorbibnamehash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \strng{authornamehash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \strng{authorfullhash}{5bb19566e2b8f01b43eaca0e145b1d48}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{10 kHz linewidth mid-infrared quantum cascade laser by stabilization to an optical delay line}
+      \field{volume}{Vol.44 No. 14}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/OL.44.003470
+      \endverb
+    \endentry
+    \entry{Takaishi-1963}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e225944bd5b81df0724252ddfa00e833}{%
+           family={Takaishi},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a2707db0794de2883e96540bc8af83a8}{%
+           family={Sensui},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{092e265bb68926852a90fef603060078}
+      \strng{fullhash}{092e265bb68926852a90fef603060078}
+      \strng{bibnamehash}{092e265bb68926852a90fef603060078}
+      \strng{authorbibnamehash}{092e265bb68926852a90fef603060078}
+      \strng{authornamehash}{092e265bb68926852a90fef603060078}
+      \strng{authorfullhash}{092e265bb68926852a90fef603060078}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the Faraday Society}
+      \field{title}{Thermal Transpiration Effect of Hydrogen, Rare Gases and Methane}
+      \field{volume}{Volume 59}
+      \field{year}{1963}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1039/TF9635902503
+      \endverb
+    \endentry
+    \entry{Taubman2002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7a79c634b6540e2c080ca0505870de38}{%
+           family={Taubman},
+           familyi={T\bibinitperiod},
+           given={M.S.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f3389df4d5a9fd37913976c17799fa19}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={T.L.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b4930cbc116e9a90c0ea423395ee779c}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={B.D.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3e780ff9f4dd56238431ebc2e8b307fa}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={R.M},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d85c0ec35752dae30282fc2596938631}
+      \strng{fullhash}{d69b09f48ca4e616c5f8fb36eec3ba0f}
+      \strng{bibnamehash}{d85c0ec35752dae30282fc2596938631}
+      \strng{authorbibnamehash}{d85c0ec35752dae30282fc2596938631}
+      \strng{authornamehash}{d85c0ec35752dae30282fc2596938631}
+      \strng{authorfullhash}{d69b09f48ca4e616c5f8fb36eec3ba0f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Frequency stabilization of quantum-cascade lasers by use of optical cavities}
+      \field{volume}{27, No. 24}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1364/OL.27.002164
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Frequency stabilization of quantum-cascade lasers by use of optical cavities.pdf
+      \endverb
+    \endentry
+    \entry{Tombez2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a09538abbc2fe8f8dcbbb2e755623bf6}{%
+           family={Tombez},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=18b650fca8f19308a3f9e30f00379a4b}{%
+           family={Schilt},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0dbcc7f230a5ddea315cdd70607be451}{%
+           family={Francesco},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi Di},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3f3db02d67d9e21b72b2490d82fb14fb}{%
+           family={Fuehrer},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{fullhash}{6092edc0d7ea0d4a2ad67a4610c9eb00}
+      \strng{bibnamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authorbibnamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authornamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authorfullhash}{6092edc0d7ea0d4a2ad67a4610c9eb00}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{407-414}
+      \field{journaltitle}{Applied Physics B: Lasers and optics}
+      \field{number}{3}
+      \field{title}{Linewidth of a quantum-cascade laser assessed from its frequency noise spectrum and impact of the current driver}
+      \field{volume}{109}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s00340-012-5005-x
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\QCL\Linewidth of a QCL asses from its frequency noise spectrum.pdf
+      \endverb
+    \endentry
+    \entry{Tombez2013}{conferencepaper}{}
+      \name{author}{5}{}{%
+        {{hash=a09538abbc2fe8f8dcbbb2e755623bf6}{%
+           family={Tombez},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=18b650fca8f19308a3f9e30f00379a4b}{%
+           family={Schilt},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e37979d7d656d8aec4cc476fc5a96e82}{%
+           family={Domenico},
+           familyi={D\bibinitperiod},
+           given={G.\bibnamedelimi Di},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=6416d62f2db9ab3d2a9350193b10ce81}{%
+           family={Blaser},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a37db0cdc2c61587e2e7b6b52501d560}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{fullhash}{b659de1238cb64e7b1183b7ee5edf16c}
+      \strng{bibnamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authorbibnamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authornamehash}{7d567fd6daca41334cd301b4290bba27}
+      \strng{authorfullhash}{b659de1238cb64e7b1183b7ee5edf16c}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CLEO: 2013, Conference Paper}
+      \field{title}{Physical Origin of Frequency Noise and Linewidth in Mid-IR DFB Quantum Cascade Lasers}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1364/CLEO_SI.2013.CM1K.3
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Arbeit\Paper\QCL\Physical Origin of Frequency Noise and Linewidth in Mid-IR DFB Quantum Cascade Lasers.pdf
+      \endverb
+    \endentry
+    \entry{Weisskopf1932}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3448fe6016369a77c6cf1d25f81c861}{%
+           family={Weisskopf},
+           familyi={W\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3448fe6016369a77c6cf1d25f81c861}
+      \strng{fullhash}{b3448fe6016369a77c6cf1d25f81c861}
+      \strng{bibnamehash}{b3448fe6016369a77c6cf1d25f81c861}
+      \strng{authorbibnamehash}{b3448fe6016369a77c6cf1d25f81c861}
+      \strng{authornamehash}{b3448fe6016369a77c6cf1d25f81c861}
+      \strng{authorfullhash}{b3448fe6016369a77c6cf1d25f81c861}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{287–301}
+      \field{journaltitle}{Zeitschrift für Physik}
+      \field{title}{Zur Theorie der Kopplungsbreite und der Stoßdämpfung.}
+      \field{volume}{75}
+      \field{year}{1932}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1007/BF01341858
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Theoretische Spektren\Zur Theorie der Kopplungsbreite und der Stoßdämpfung.pdf
+      \endverb
+    \endentry
+    \entry{White1942}{article}{}
+      \name{author}{1}{}{%
+        {{hash=39b210e578c70c784bf619d7a284e9cd}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima U.},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \strng{namehash}{39b210e578c70c784bf619d7a284e9cd}
+      \strng{fullhash}{39b210e578c70c784bf619d7a284e9cd}
+      \strng{bibnamehash}{39b210e578c70c784bf619d7a284e9cd}
+      \strng{authorbibnamehash}{39b210e578c70c784bf619d7a284e9cd}
+      \strng{authornamehash}{39b210e578c70c784bf619d7a284e9cd}
+      \strng{authorfullhash}{39b210e578c70c784bf619d7a284e9cd}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Optical Society of America}
+      \field{title}{Long Optical Paths of Large Aperture}
+      \field{volume}{Vol. 32, Issue 5,}
+      \field{year}{1942}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1364/JOSA.32.000285
+      \endverb
+      \verb{file}
+      \verb C:\Users\Andre\DesktopPromotion\Arbeit\Paper\Multipass-cells\White-cell
+      \endverb
+    \endentry
+    \entry{Zalicki1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=eaf428f5d2c75d42e9c42797fa513fb7}{%
+           family={Zalicki},
+           familyi={Z\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2c357911065c9b265175f1b14117ada1}{%
+           family={Zare},
+           familyi={Z\bibinitperiod},
+           given={Richard\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ac0176a7306d32af60f5ed90c53d128}
+      \strng{fullhash}{2ac0176a7306d32af60f5ed90c53d128}
+      \strng{bibnamehash}{2ac0176a7306d32af60f5ed90c53d128}
+      \strng{authorbibnamehash}{2ac0176a7306d32af60f5ed90c53d128}
+      \strng{authornamehash}{2ac0176a7306d32af60f5ed90c53d128}
+      \strng{authorfullhash}{2ac0176a7306d32af60f5ed90c53d128}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{2708}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{title}{Cavity ring-down spectroscopy for quantitative absorption measurements}
+      \field{volume}{102}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1063/1.468647
+      \endverb
+      \verb{file}
+      \verb P:\Andre\Paper\Absorbtionsspektroskopie Methoden\Cavity ring-down spectroscopy for quantitative absorption measurements.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

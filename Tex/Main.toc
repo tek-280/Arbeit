@@ -1,0 +1,74 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction and motivation}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}QuantumPascal project}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Pressure standards at the PTB}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Development of photon based methods at the PTB}{6}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Theory part I: Absorption spectroscopy}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Absorbtion}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Lambert-Beer law}{8}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Infrared spectroscopy}{9}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Rotation spectra}{9}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Vibration spectra}{11}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Rotational and vibrational spectra}{13}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}HITRAN database}{14}{subsection.2.1.6}%
+\contentsline {section}{\numberline {2.2}Spectral line shapes}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Natural line broadening}{15}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Temperature dependent line broadening}{16}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Pressure dependent line broadening and line shift}{17}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Combined effects}{19}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Multipass absorption cells}{20}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}White cell}{20}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Herriott-cell}{21}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Quantum cascade lasers}{24}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Theory part II: Refractometry}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ideal and real gases}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Lorentz Lorenz equation}{28}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Refractometry}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Dual Farby-Pérot cavity based refractometry}{30}{subsection.3.3.1}%
+\contentsline {chapter}{\numberline {4}Theory part III: Optical resonators}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Fabry-Pérot resonators}{31}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Longitudinal resonator modes}{31}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Gaussian Beam propagation}{34}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Transversal Resonator modes}{34}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Mode-matching}{36}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Laser-frequency stabilization}{38}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Lock-In technique}{38}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Pound-Drever-Hall procedure}{38}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Absorption spectroscopy}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Laser characterization}{42}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Laser tuning range}{43}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Absolute emission frequency}{44}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Determination of the required Laser linewidth}{47}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Reducing Laser-linewidths and Laser locking}{51}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Frequency calibration}{53}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Temperature assessment}{56}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Pressure assessment}{57}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Thermal transpiration effects}{58}{subsection.5.6.1}%
+\contentsline {section}{\numberline {5.7}TDLAS measurements}{59}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Pressure dependent transmission and absorption signals}{59}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Comparison with simulation and fitting models}{60}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5.7.3}Carbon monoxide line strengths}{63}{subsection.5.7.3}%
+\contentsline {section}{\numberline {5.8}TDLAS as a pressure standard}{66}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Outlook and improvements}{67}{subsection.5.8.1}%
+\contentsline {subsubsection}{TDLAS as a total pressure standard}{67}{figure.caption.48}%
+\contentsline {chapter}{\numberline {6}Refractometry}{68}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Experimental setup: Refractometer}{68}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Optics and electronics}{68}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Vacuum system}{71}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Resonator choice}{72}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Measurement of the coefficient of thermal expansion (CTE)}{73}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}GAMOR method}{75}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Free-Spectral-Range of the Invar resonator}{78}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Temperature and pressure assessment}{80}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Refractivities of Helium, Nitrogen and Argon}{82}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Pressure induced cavity deformation}{84}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Deformation of a specific cavity with COMSOL}{84}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Experimental determination of the deformation}{88}{subsection.6.7.2}%
+\contentsline {section}{\numberline {6.8}Temperature effects: PV-work}{90}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Ring comparison}{93}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Gas permeability measurements of cavity-spacer materials}{96}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Theory}{96}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Experimental setup and procedure}{97}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Sample preparation}{98}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Experimental results}{98}{section.7.3}%
